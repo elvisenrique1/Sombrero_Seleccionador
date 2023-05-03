@@ -1,4 +1,4 @@
-#                         ******   Proyecto Sombrero Selecionador   ******
+#                         ******   Proyecto Sombrero Seleccionador   ******
 """"
 Es un sombrero parlante mágico en el Colegio Hogwarts de Magia y Hechicería. El sombrero decide a cuál de las cuatro "Casas" va cada estudiante de primer año:
 🦁Gryffindor
@@ -27,8 +27,7 @@ tp_casa_slytherin = casa_slytherin_p1 + casa_slytherin_p2 + casa_slytherin_p3
 
 total_ptos = 0
 
-# #. -   ******   Pregunta 1   ******
-
+# #. -   ******   Pregunta 1   ******s
 question_p1 = int(input("P1. - Que te gusta mas? 1. - Amanecer / 2. - Anochecer: "))
 
 if question_p1 == 1:
@@ -51,7 +50,6 @@ else:
    print("Entrada INCORRECTA")
 
 # #. -   ******   Pregunta 2   ******
-
 question_p2 = int(input("P2. - Cuando esté muerto, quiero que la gente me recuerde como: 1. - El Bien / 2. - El Grande 3. - El Sabio / 4. - El Audaz "))
 
 if question_p2 == 1:
