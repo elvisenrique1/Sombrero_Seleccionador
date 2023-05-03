@@ -1,4 +1,4 @@
-#                         ******   Proyecto Sombrero Seleccionador   ******
+#                         ******   Proyecto Sombrero Seleccionador de Elvis   ******
 """"
 Es un sombrero parlante mágico en el Colegio Hogwarts de Magia y Hechicería. El sombrero decide a cuál de las cuatro "Casas" va cada estudiante de primer año:
 🦁Gryffindor
