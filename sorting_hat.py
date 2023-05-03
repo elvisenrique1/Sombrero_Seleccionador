@@ -8,13 +8,9 @@ Es un sombrero parlante mágico en el Colegio Hogwarts de Magia y Hechicería. E
 """
 
 casa_gryffindor = 0
-
 casa_ravenclaw = 0
-
 casa_hufflepuff = 0
-
 casa_slytherin = 0
-
 
 # #. -   ******   Pregunta 1   ******s
 question_p1 = int(input("P1. - Que te gusta mas? 1. - Amanecer / 2. - Anochecer: "))
